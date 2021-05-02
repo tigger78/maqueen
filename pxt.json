@@ -1,0 +1,24 @@
+{
+    "name": "maqueen",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.5.5",
+        "JoyBit": "github:alsrobot-microbit-makecode-packages/alsrobotjoybit#1.1.1",
+        "pxt-hardwario": "github:hardwario/pxt-microbit-hardwario#0.6.0",
+        "devices": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
